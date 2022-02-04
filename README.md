@@ -9,3 +9,7 @@ lost kernel 是一个小内核，名字含义是被遗忘的内核，在这个�
 3. 内存管理
   提供对物理内存，虚拟内存的管理功能，提供基础库的malloc, free.
 
+## 功能
+1. 提供fork, pthread_create, signal等Unix线程相关的api访问接口。
+2. 提供malloc, free相关的内存接口。
+3. 提供一组基础的命令行，如: ls, cat等。
