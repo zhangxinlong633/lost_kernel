@@ -40,5 +40,5 @@ ping baidu.com
 nginx started
 
 web服务器测试为综合测试，系统测试完这个说明系统具备生产可用.
-
+ 
 */
